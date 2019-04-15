@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Busca por GPS</string>
+    <string name="permission">"Conceder permissão de GPS "</string>
+    <string name="active">Ativar GPS</string>
+    <string name="disabled">Desativar GPS</string>
+    <string name="start">Iniciar Percurso</string>
+    <string name="finish">Terminar Percuso</string>
+    <string name="action_settings">Configurações</string>
+    <string name="what">O que deseja encontrar?</string>
+    <string name="time">Tempo Passado</string>
+    <string name="nogps">GPS sem permissão</string>
+    <string name="busca">restaurantes</string>
+</resources>
